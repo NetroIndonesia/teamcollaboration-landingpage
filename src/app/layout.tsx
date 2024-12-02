@@ -11,8 +11,8 @@ const poppins = Poppins({
 });
 
 export const metadata: Metadata = {
-  title: "MILIHAKU - Solusi Modern untuk Manajemen Pilkada",
-  description: "Platform manajemen pilkada yang efektif dan terukur untuk kesuksesan kampanye Anda",
+  title: "Team Collaboration ID - Empowering Game Servers with Seamless Collaboration",
+  description: "Team Collaboration ID adalah solusi lengkap untuk pengembangan dan pengelolaan game server yang andal dan inovatif.",
 };
 
 export default function RootLayout({
