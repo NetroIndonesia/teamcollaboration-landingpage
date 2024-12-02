@@ -19,7 +19,7 @@ const features = [
   {
     title: "Keamanan Terintegrasi",
     description: "Lindungi server Anda dari ancaman dengan sistem keamanan canggih",
-    icon: ShieldCheck,
+    icon: Wallet2,
   },
   {
     title: "Kolaborasi Tim",
